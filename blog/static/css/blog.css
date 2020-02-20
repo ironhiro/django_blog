@@ -1,5 +1,6 @@
 .page-header {
     background-color: #070707;
+    height: auto;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -15,7 +16,7 @@
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Roboto', sans-serif;
 }
 
 .date {
@@ -33,7 +34,7 @@ h1, h2, h3, h4 {
 .top-menu, .top-menu:hover, .top-menu:visited {
     color: #ffffff;
     float: right;
-    font-size: 26pt;
+    font-size: 22pt;
     margin-right: 20px;
 }
 
